@@ -32,6 +32,16 @@ During this internship, I worked on beginner-friendly Python projects covering:
 
 ---
 
+## 📌 Project Overview
+
+### ✅ Task 1 – To-Do List Manager
+A menu-driven Python application that allows users to add, view, and remove tasks using Python lists. This project demonstrates list operations, loops, functions, and input validation.
+
+### ✅ Task 2 – Expense Tracker
+A command-line application that records expenses, calculates the total amount spent, and displays the average expense. This project demonstrates accumulators, mathematical operations, and user input handling.
+
+### ✅ Task 3 – Random Password Generator
+A Python application that generates secure random passwords using letters, numbers, and optional symbols. This project demonstrates the use of Python's `random` and `string` modules for secure password generation.
 # 🛠 Technologies Used
 
 - Python 3
