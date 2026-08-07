@@ -2,6 +2,7 @@
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 # 🚀 DecodeLabs Python Internship Projects
 
 Welcome to my **DecodeLabs Internship** repository.
