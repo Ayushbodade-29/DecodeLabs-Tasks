@@ -47,6 +47,28 @@ A command-line application that records expenses, calculates the total amount sp
 
 ### ✅ Task 3 – Random Password Generator
 A Python application that generates secure random passwords using letters, numbers, and optional symbols. This project demonstrates the use of Python's `random` and `string` modules for secure password generation.
+---
+
+# 📸 Project Screenshots
+
+## ✅ Task 1 – To-Do List Manager
+
+![To-Do List Output](Task-1%20Todo%20List/Screenshots/Todo%20View%20Task.png)
+
+---
+
+## ✅ Task 2 – Expense Tracker
+
+![Expense Tracker Output](Task-2%20Expense%20Tracker/Screenshots/ExpenseTracker%20Summary.png)
+
+---
+
+## ✅ Task 3 – Random Password Generator
+
+![Password Generator Output](Task-3%20Password%20Generator/Screenshots/Password%20Generator%20Output.png)
+
+---
+
 # 🛠 Technologies Used
 
 - Python 3
