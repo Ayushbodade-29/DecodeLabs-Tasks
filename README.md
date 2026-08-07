@@ -1,10 +1,14 @@
 # 🚀 DecodeLabs Python Internship Projects
 
-Welcome to my **DecodeLabs Internship** repository! This repository contains the Python projects I completed during the internship to strengthen my programming fundamentals, problem-solving abilities, and logical thinking.
+Welcome to my **DecodeLabs Internship** repository.
 
-## 📖 About
+This repository contains the Python projects I completed during my internship to strengthen my programming fundamentals, problem-solving skills, and logical thinking.
 
-During this internship, I worked on beginner-friendly Python projects that helped me understand core programming concepts such as:
+---
+
+# 📖 About
+
+During this internship, I worked on beginner-friendly Python projects covering:
 
 - Variables and Data Types
 - Conditional Statements
@@ -18,7 +22,7 @@ During this internship, I worked on beginner-friendly Python projects that helpe
 
 ---
 
-## 📂 Completed Projects
+# 📂 Completed Projects
 
 | Task | Project | Status |
 |------|---------|--------|
@@ -28,7 +32,7 @@ During this internship, I worked on beginner-friendly Python projects that helpe
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠 Technologies Used
 
 - Python 3
 - Visual Studio Code
@@ -37,7 +41,7 @@ During this internship, I worked on beginner-friendly Python projects that helpe
 
 ---
 
-## 📁 Repository Structure
+# 📁 Repository Structure
 
 ```
 DecodeLabs-Tasks/
@@ -62,25 +66,25 @@ DecodeLabs-Tasks/
 
 ---
 
-## 🚀 How to Run
+# ▶️ How to Run
 
 1. Clone this repository.
 
-```
+```bash
 git clone https://github.com/Ayushbodade-29/DecodeLabs-Tasks.git
 ```
 
-2. Open the required project folder.
+2. Open any project folder.
 
-3. Run the Python file using:
+3. Run the Python file.
 
-```
+```bash
 python filename.py
 ```
 
 ---
 
-## 📈 Skills Gained
+# 📚 Skills Gained
 
 - Python Programming
 - Problem Solving
@@ -91,18 +95,15 @@ python filename.py
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 **Ayush Bodade**
 
-- GitHub: https://github.com/Ayushbodade-29
+GitHub:
+https://github.com/Ayushbodade-29
 
 ---
 
-## 🙏 Acknowledgement
+# 🙏 Acknowledgement
 
 Thanks to **DecodeLabs** for providing practical Python tasks that helped improve my programming skills through hands-on learning.
-
----
-
-⭐ If you found this repository helpful, feel free to star it!
