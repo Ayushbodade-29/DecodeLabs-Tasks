@@ -1,54 +1,129 @@
 # 💰 Expense Tracker
 
-A simple Python console-based Expense Tracker developed as part of the **DecodeLabs Internship**.
+A simple **Python command-line Expense Tracker** developed as part of my **DecodeLabs Internship**.
 
-## 📌 Objective
+The application allows users to enter multiple expenses, calculate the total amount spent, and view a summary including the average expense.
 
-This application allows users to enter their daily expenses one by one, calculates the total amount spent, and displays a summary.
+---
+
+## 📌 Project Overview
+
+The Expense Tracker demonstrates fundamental Python concepts such as **variables, lists, loops, mathematical operations, accumulators, functions, and input validation**.
+
+The application runs directly in the terminal and does not require any external libraries.
+
+---
 
 ## ✨ Features
 
 - ➕ Add multiple expenses
-- 💰 Calculate total expenses
+- 💰 Calculate total amount spent
 - 📊 Calculate average expense
-- ✅ Input validation
 - 📋 Display all entered expenses
-- 🖥️ Easy-to-use menu
+- 🔢 Display number of expenses
+- ✅ Validate user input
+- 🚫 Prevent negative expense values
+- ⚠️ Handle invalid input
+- 📝 Use `done` to finish entering expenses
 
-## 🛠️ Technologies Used
+---
+
+## 🛠️ Concepts Used
 
 - Python 3
+- Lists
+- Variables
+- Loops
+- Functions
+- `float()`
+- `append()`
+- `enumerate()`
+- Accumulators
+- Mathematical Operations
+- Exception Handling
+- User Input
 
-## 📂 Project Structure
+---
 
-```
-Task-2 Expense Tracker/
-│
-├── ExpenseTracker.py
-├── README.md
-└── Screenshots/
-```
+## 📸 Output
+
+![Expense Tracker Output](ScreenShots/ExpenseTracker%20Summary.png)
+
+---
 
 ## ▶️ How to Run
 
-1. Open a terminal.
-2. Navigate to the project folder.
-3. Run:
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Ayushbodade-29/DecodeLabs-Tasks.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd "Task-2 Expense Tracker"
+```
+
+### 3. Run the program
 
 ```bash
 python ExpenseTracker.py
 ```
 
-## 📸 Screenshots
+---
 
-Screenshots of the application are available in the **Screenshots** folder.
+## 💻 Example
+
+```text
+==============================
+      EXPENSE TRACKER
+==============================
+
+Enter an expense amount (or 'done' to finish): 250
+Added: 250.0. Running total: 250.0
+
+Enter an expense amount (or 'done' to finish): 150
+Added: 150.0. Running total: 400.0
+
+Enter an expense amount (or 'done' to finish): done
+
+==============================
+          SUMMARY
+==============================
+
+Number of expenses: 2
+Total Spent: 400.0
+Average Expense: 200.00
+```
+
+---
+
+## 🔮 Future Improvements
+
+Possible improvements for future versions:
+
+- 💾 Save expenses permanently using files or a database
+- 📅 Add expense dates
+- 🏷️ Add expense categories
+- 📊 Generate spending reports
+- 📈 Add monthly expense analysis
+
+---
+
+## 🎓 Internship
+
+**Organization:** DecodeLabs  
+**Project:** Task 2 – Expense Tracker
+
+---
 
 ## 👨‍💻 Author
 
 **Ayush Bodade**
 
-GitHub: https://github.com/Ayushbodade-29
+[GitHub Profile](https://github.com/Ayushbodade-29)
 
 ---
 
-⭐ Developed during the DecodeLabs Internship.
+⬅️ [Back to DecodeLabs Internship Projects](../)
