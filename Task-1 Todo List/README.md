@@ -43,7 +43,7 @@ The application runs directly in the terminal and does not require any external 
 
 ## 📸 Output
 
-![To-Do List Output](ScreenShots/Todo%20View%20Task.png)
+![To-Do List Output](Screenshots/Todo%20View%20Task.png)
 
 ---
 
