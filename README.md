@@ -65,7 +65,7 @@ A Python application that generates secure random passwords using letters, numbe
 
 ## ✅ Task 3 – Random Password Generator
 
-![Password Generator Output](Task-3%20Password%20Generator/Screenshots/Password%20Generator%20Output.png)
+![Password Generator Output](Task-3%20Password%20Generator/ScreenShots/Password%20Generator%20Output.png)
 
 ---
 
