@@ -59,7 +59,7 @@ A Python application that generates secure random passwords using letters, numbe
 
 ## ✅ Task 2 – Expense Tracker
 
-![Expense Tracker Output](Task-2%20Expense%20Tracker/Screenshots/ExpenseTracker%20Summary.png)
+![Expense Tracker Output](Task-2%20Expense%20Tracker/ScreenShots/ExpenseTracker%20Summary.png)
 
 ---
 
