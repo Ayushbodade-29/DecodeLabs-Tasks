@@ -1,50 +1,108 @@
-# 🚀 DecodeLabs Internship Projects
+# 📝 To-Do List Manager
 
-Welcome to my **DecodeLabs Internship Repository**.
+A simple **Python command-line To-Do List application** developed as part of my **DecodeLabs Internship**.
 
-This repository contains all the tasks and projects completed during my internship at **DecodeLabs**.
-
----
-
-## 📂 Repository Structure
-
-```
-DecodeLabs/
-│
-├── Task-1 Todo List/
-│   ├── Todo.py
-│   └── Screenshots/
-│
-└── README.md
-```
+The application allows users to add, view, and remove tasks through an interactive menu.
 
 ---
 
-## 📌 Completed Tasks
+## 📌 Project Overview
 
-### ✅ Task 1 – To-Do List Manager
+The To-Do List Manager demonstrates fundamental Python programming concepts such as **lists, loops, functions, conditional statements, and user input validation**.
 
-A simple Python console-based To-Do List application that allows users to:
+The application runs directly in the terminal and does not require any external libraries.
 
-- ➕ Add Tasks
-- 📋 View Tasks
-- 🗑️ Remove Tasks
-- ✅ Input Validation
-- 📌 Menu Driven Interface
+---
 
-### 🛠️ Technologies Used
+## ✨ Features
+
+- ➕ Add new tasks
+- 📋 View all tasks
+- 🗑️ Remove tasks by task number
+- ⚠️ Validate user input
+- 🔄 Interactive menu system
+- 🚫 Prevent empty tasks
+- ❌ Handle invalid task numbers
+
+---
+
+## 🛠️ Concepts Used
 
 - Python 3
 - Lists
-- Loops
 - Functions
+- `append()`
+- `pop()`
+- Loops
 - Conditional Statements
+- `enumerate()`
+- Exception Handling
+- User Input
 
 ---
 
-## 🎯 Internship
+## 📸 Output
 
-Organization: **DecodeLabs**
+![To-Do List Output](ScreenShots/Todo%20View%20Task.png)
+
+---
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Ayushbodade-29/DecodeLabs-Tasks.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd "Task-1 Todo List"
+```
+
+### 3. Run the program
+
+```bash
+python Todo.py
+```
+
+---
+
+## 💻 Example
+
+```text
+==============================
+      TO-DO LIST MENU
+==============================
+1. Add a task
+2. View tasks
+3. Remove a task
+4. Exit
+
+Enter your choice (1-4): 1
+Enter the task to add: Complete Python internship
+
+'Complete Python internship' has been added to your list.
+```
+
+---
+
+## 🔮 Future Improvements
+
+Possible improvements for future versions:
+
+- 💾 Save tasks permanently using a file or database
+- ✅ Add task completion status
+- ✏️ Add an option to edit existing tasks
+- 📅 Add due dates and priorities
+
+---
+
+## 🎓 Internship
+
+**Organization:** DecodeLabs  
+**Project:** Task 1 – To-Do List Manager
 
 ---
 
@@ -52,8 +110,8 @@ Organization: **DecodeLabs**
 
 **Ayush Bodade**
 
-GitHub: https://github.com/Ayushbodade-29
+[GitHub Profile](https://github.com/Ayushbodade-29)
 
 ---
 
-⭐ More internship tasks will be added to this repository.
+⬅️ [Back to DecodeLabs Internship Projects](../)
